@@ -4,4 +4,4 @@
 
 #Extensive data storage and data manipulation mimicing modern computer file systems.
 
-#Structures that allow users to open, close, save, overwrite, and create new files.
+#Structures that allow users to open, close, save, overwrite, and create new files in an effient and safe manner.
